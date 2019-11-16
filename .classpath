@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ressources"/>
+	<classpathentry kind="lib" path="C:/Users/IR2M/Downloads/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IR2M/Downloads/bcprov-ext-jdk15to18-164.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
